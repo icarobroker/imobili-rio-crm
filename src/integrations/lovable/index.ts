@@ -5,7 +5,7 @@ type SignInOptions = {
   extraParams?: Record<string, string>;
 };
 
-type OAuthProvider = "google" | "apple" | "microsoft";
+type OAuthProvider = "google" | "apple" | "azure";
 
 /**
  * Wrapper de auth usando Supabase OAuth nativo.
