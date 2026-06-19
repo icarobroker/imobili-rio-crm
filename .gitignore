@@ -21,9 +21,8 @@ dist-ssr
 .env.local
 .env.*.local
 
-# Wrangler / Cloudflare
-.wrangler/
-.dev.vars
+# Vercel
+.vercel
 
 # Editor directories and files
 .vscode/*
