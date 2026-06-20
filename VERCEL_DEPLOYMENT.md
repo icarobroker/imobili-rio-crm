@@ -160,3 +160,6 @@ Se encontrar problemas:
 ---
 
 **Nota:** Este projeto ainda pode ser editado no Lovable e publicado em `corretor-key-hub.lovable.app`. O Vercel é apenas uma alternativa de hosting adicional.
+
+---
+*Última atualização: Forçando trigger de build após correção do vercel.json.*
