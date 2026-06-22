@@ -1,17 +1,8 @@
 {
+  "version": 2,
   "buildCommand": "npm run build",
   "outputDirectory": "dist/client",
   "framework": "vite",
-  "env": {
-    "VITE_SUPABASE_URL": "@vite_supabase_url",
-    "VITE_SUPABASE_PUBLISHABLE_KEY": "@vite_supabase_publishable_key"
-  },
-  "functions": {
-    "api/server.js": {
-      "runtime": "nodejs20.x",
-      "maxDuration": 30
-    }
-  },
   "rewrites": [
     {
       "source": "/(.*)",
