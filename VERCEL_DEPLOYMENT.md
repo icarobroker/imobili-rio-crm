@@ -163,3 +163,6 @@ Se encontrar problemas:
 
 ---
 *Última atualização: Forçando trigger de build após correção do vercel.json.*
+
+---
+*Última atualização: Trigger final após configuração das variáveis de ambiente do Supabase.*
